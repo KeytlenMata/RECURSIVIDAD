@@ -16,7 +16,6 @@ Este repositorio contiene la resolución de 10 ejercicios de recursividad en **P
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/KeytlenMata/RECURSIVIDAD
-cd ejercicios-recursividad
 
 # 2. Ejecutar el programa (muestra automáticamente todos los ejemplos)
 python main.py
